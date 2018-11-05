@@ -1,0 +1,31 @@
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\BE\bin\Debug\BE.dll
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\BE\bin\Debug\BE.pdb
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\BE\obj\Debug\BE.dll
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\BE\obj\Debug\BE.pdb
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\BE\bin\Debug\BE.dll
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\BE\bin\Debug\BE.pdb
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\BE\obj\Debug\BE.dll
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\BE\obj\Debug\BE.pdb
+G:\dotNet5777_Project01_4238_1174v\BE\bin\Debug\BE.dll
+G:\dotNet5777_Project01_4238_1174v\BE\bin\Debug\BE.pdb
+G:\dotNet5777_Project01_4238_1174v\BE\obj\Debug\BE.dll
+G:\dotNet5777_Project01_4238_1174v\BE\obj\Debug\BE.pdb
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\BE\obj\Debug\BE.dll
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\BE\obj\Debug\BE.pdb
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\BE\bin\Debug\BE.dll
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\BE\bin\Debug\BE.pdb
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\BE\obj\Debug\BE.dll
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\BE\obj\Debug\BE.pdb
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\BE\bin\Debug\BE.dll
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\BE\bin\Debug\BE.pdb
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\BE\obj\Debug\BE.dll
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\BE\obj\Debug\BE.pdb
+G:\dotNet5777_Project01_4238_1174v\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\BE\bin\Debug\BE.dll
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\BE\bin\Debug\BE.pdb
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\BE\obj\Debug\BE.dll
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\BE\obj\Debug\BE.pdb

@@ -1,0 +1,29 @@
+﻿<Window x:Class="UI.MenuEmployee"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI"
+        mc:Ignorable="d"
+        Title="MenuEmployee" Height="300" Width="300">
+    <Grid HorizontalAlignment="Right" Width="292">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="button" FontSize="20" Content="Add Employee"  Background="OliveDrab"  Grid.Row="0" Click="button_Add"/>
+        <Button x:Name="button1" FontSize="20" Content="Erase Employee" Background="OliveDrab"  Grid.Row="1" Click="button1_Erase"/>
+        <Button x:Name="button2" FontSize="20" Content="Update Employee" Background="OliveDrab"  Grid.Row="2" Click="button2_Update"/>
+        <Button x:Name="button3" FontSize="20" Content="All employees" Background="OliveDrab" Grid.Row="3" Click="button3_All"/>
+        <Button x:Name="button4" VerticalAlignment="Top" Height="37" Click="button1_return" RenderTransformOrigin="-0.383,0.544" HorizontalAlignment="Right" Width="39">
+            <Button.Content>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="image/GoBack.png" Width="33" Height="34"/>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+
+    </Grid>
+</Window>

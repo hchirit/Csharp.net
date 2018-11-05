@@ -1,0 +1,42 @@
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\bin\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\bin\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\bin\Debug\BE-1.dll
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\bin\Debug\BE-1.pdb
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\obj\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\project part 1\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\obj\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\bin\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\bin\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\bin\Debug\BE-1.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\bin\Debug\BE-1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\obj\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\obj\Debug\DAL-4.pdb
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\bin\Debug\DAL-4.dll
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\bin\Debug\DAL-4.pdb
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\bin\Debug\BE-1.dll
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\bin\Debug\BE-1.pdb
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\obj\Debug\DAL-4.dll
+C:\Users\PC-MSIKA\Desktop\dotNet5777_Project01 part 1\dotNet5777_Project01 change\DS\obj\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\DS\bin\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\DS\bin\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\DS\bin\Debug\BE-1.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\DS\bin\Debug\BE-1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\DS\obj\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part1 FINIT\dotNet5777_Project01 change\DS\obj\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\DS\bin\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\DS\bin\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\DS\bin\Debug\BE-1.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\DS\bin\Debug\BE-1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\DS\obj\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777_Project1 part 2\dotNet5777_Project01 change\DS\obj\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\DS\bin\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\DS\bin\Debug\DAL-4.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\DS\bin\Debug\BE-1.dll
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\DS\bin\Debug\BE-1.pdb
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\DS\obj\Debug\DAL-4.dll
+C:\Users\nathanmsika\Desktop\dotNet5777Project1 part 2\dotNet5777_Project01 change\DS\obj\Debug\DAL-4.pdb

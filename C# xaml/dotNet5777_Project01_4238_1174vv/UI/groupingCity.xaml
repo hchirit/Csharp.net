@@ -1,0 +1,22 @@
+﻿<Window x:Class="UI.groupingCity"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI"
+        mc:Ignorable="d"
+        Title="groupingCity" Height="300" Width="300">
+    <Grid Margin="-35,0">
+        <Grid.Background>
+            <ImageBrush x:Name="Image"  ImageSource="image/city.jpg" />
+        </Grid.Background>
+        <DataGrid x:Name="dataGrid" Margin="99,40,74,0" IsReadOnly="True" VerticalAlignment="Top" Height="154"/>
+        <Button x:Name="button1" Margin="296,0,37,238" Click="button1_return">
+            <Button.Content>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="image/GoBack.png" Width="26" Height="27" RenderTransformOrigin="0.245,0.508"/>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+    </Grid>
+</Window>

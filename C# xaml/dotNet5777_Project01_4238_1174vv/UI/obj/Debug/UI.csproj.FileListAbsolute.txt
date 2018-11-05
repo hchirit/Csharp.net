@@ -1,0 +1,470 @@
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\bin\Debug\UI.exe.config
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\MainWindow.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\App.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\bin\Debug\UI.exe
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\bin\Debug\UI.pdb
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\MainWindow.baml
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\UI.g.resources
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\UI.exe
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\UI.pdb
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\bin\Debug\BE.dll
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\bin\Debug\BE.pdb
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\AddContract.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\AddEmployee.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\AddEmployeur.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\AddSpecialization.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\EraseContract.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\EraseEmployee.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\EraseEmployer.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\EraseSpecialization.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\MenuContract.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\MenuEmployee.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\MenuEmployeur.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\MenuSpecialization.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\StartWindow.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\Test.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\UpdateContract.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\UpdateEmployee.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\UpdateEmployer.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\UpdateSpecialization.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174\UI\bin\Debug\UI.exe.config
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\UI.exe
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174\UI\obj\Debug\UI.pdb
+E:\dotNet5777_Project01_4238_1174\UI\bin\Debug\UI.exe.config
+E:\dotNet5777_Project01_4238_1174\UI\obj\Debug\UI.exe
+E:\dotNet5777_Project01_4238_1174\UI\obj\Debug\UI.pdb
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\bin\Debug\UI.exe.config
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.exe
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.pdb
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddContract.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployee.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployeur.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddSpecialization.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseContract.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployee.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployer.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseSpecialization.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MainWindow.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MainWindows.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuContract.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployee.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployeur.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuSpecialization.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\StartWindow.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\Test.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateContract.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployee.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployer.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateSpecialization.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\App.g.cs
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\hillel\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI_MarkupCompile.lref
+G:\dotNet5777_Project01_4238_1174v\UI\bin\Debug\UI.exe.config
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddContract.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployee.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployeur.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddSpecialization.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseContract.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployee.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployer.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseSpecialization.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MainWindows.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuContract.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployee.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployeur.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuSpecialization.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\StartWindow.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateContract.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployee.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployer.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateSpecialization.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\App.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI_MarkupCompile.cache
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI_MarkupCompile.lref
+G:\dotNet5777_Project01_4238_1174v\UI\bin\Debug\UI.exe
+G:\dotNet5777_Project01_4238_1174v\UI\bin\Debug\UI.pdb
+G:\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BE.dll
+G:\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BL.dll
+G:\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DAL.dll
+G:\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DS.dll
+G:\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BE.pdb
+G:\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BL.pdb
+G:\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DAL.pdb
+G:\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DS.pdb
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddContract.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployee.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployeur.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddSpecialization.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseContract.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployee.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployer.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseSpecialization.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MainWindows.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuContract.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployee.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployeur.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuSpecialization.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\StartWindow.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateContract.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployee.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployer.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateSpecialization.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.g.resources
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.Properties.Resources.resources
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.exe
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.pdb
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\bin\Debug\UI.exe.config
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.exe
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.pdb
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\bin\Debug\UI.exe
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\bin\Debug\UI.pdb
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BE.dll
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BL.dll
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DAL.dll
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DS.dll
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BE.pdb
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BL.pdb
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DAL.pdb
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DS.pdb
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddContract.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployee.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployeur.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddSpecialization.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseContract.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployee.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployer.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseSpecialization.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MainWindows.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuContract.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployee.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployeur.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuSpecialization.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\StartWindow.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateContract.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployee.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployer.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateSpecialization.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddContract.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployee.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployeur.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddSpecialization.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseContract.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployee.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployer.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseSpecialization.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MainWindows.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuContract.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployee.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployeur.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuSpecialization.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\StartWindow.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateContract.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployee.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployer.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateSpecialization.baml
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.g.resources
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\admin\Desktop\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\UI.exe.config
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\UI.exe
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\UI.pdb
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BE.dll
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BL.dll
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DAL.dll
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DS.dll
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BE.pdb
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BL.pdb
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DAL.pdb
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DS.pdb
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddContract.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployee.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployeur.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddSpecialization.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allContract.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allEmployee.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allEmployer.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allSpecialization.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseContract.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployee.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployer.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseSpecialization.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MainWindows.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuContract.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployee.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployeur.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuSpecialization.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\StartWindow.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateContract.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployee.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployer.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateSpecialization.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\App.g.cs
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI_MarkupCompile.cache
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI_MarkupCompile.lref
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddContract.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployee.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployeur.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddSpecialization.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allContract.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allEmployee.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allEmployer.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allSpecialization.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseContract.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployee.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployer.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseSpecialization.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MainWindows.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuContract.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployee.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployeur.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuSpecialization.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\StartWindow.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateContract.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployee.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployer.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateSpecialization.baml
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.g.resources
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.Properties.Resources.resources
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.exe
+G:\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.pdb
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\UI.exe.config
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\UI.exe
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\UI.pdb
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BE.dll
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BL.dll
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DAL.dll
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DS.dll
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BE.pdb
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BL.pdb
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DAL.pdb
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DS.pdb
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddContract.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployee.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployeur.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddSpecialization.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allContract.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allEmployee.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allEmployer.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allSpecialization.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseContract.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployee.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployer.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseSpecialization.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingCity.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingExpert.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingProfit.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MainWindows.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuContract.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployee.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployeur.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuSpecialization.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\StartWindow.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateContract.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployee.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployer.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateSpecialization.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\App.g.cs
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddContract.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployee.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployeur.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddSpecialization.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allContract.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allEmployee.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allEmployer.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allSpecialization.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseContract.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployee.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployer.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseSpecialization.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingCity.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingExpert.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingProfit.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MainWindows.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuContract.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployee.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployeur.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuSpecialization.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\StartWindow.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateContract.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployee.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployer.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateSpecialization.baml
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.g.resources
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.exe
+C:\Users\hillel\Desktop\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.pdb
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\UI.exe.config
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.exe
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.pdb
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\UI.exe
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\UI.pdb
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BE.dll
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BL.dll
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DAL.dll
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DS.dll
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BE.pdb
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\BL.pdb
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DAL.pdb
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\bin\Debug\DS.pdb
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddContract.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployee.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployeur.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddSpecialization.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allContract.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allEmployee.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allEmployer.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allSpecialization.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseContract.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployee.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployer.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseSpecialization.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingCity.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingExpert.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingProfit.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MainWindows.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuContract.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployee.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployeur.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuSpecialization.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\StartWindow.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateContract.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployee.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployer.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateSpecialization.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\App.g.cs
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddContract.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployee.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddEmployeur.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\AddSpecialization.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allContract.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allEmployee.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allEmployer.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allSpecialization.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseContract.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployee.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseEmployer.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\EraseSpecialization.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingCity.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingExpert.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingProfit.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MainWindows.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuContract.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployee.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuEmployeur.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\MenuSpecialization.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\StartWindow.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateContract.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployee.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateEmployer.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UpdateSpecialization.baml
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.g.resources
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\hillel\Desktop\reste\cle usb\Nouveau dossier\dotNet5777_Project01_4238_1174v\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allContract.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allEmployee.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allEmployer.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allSpecialization.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingCity.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingExpert.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingProfit.g.cs
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allContract.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allEmployee.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allEmployer.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\allSpecialization.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingCity.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingExpert.baml
+G:\dotNet5777_Project01_4238_1174v\UI\obj\Debug\groupingProfit.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\bin\Debug\UI.exe.config
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UI.exe
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UI.pdb
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\bin\Debug\UI.exe
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\bin\Debug\UI.pdb
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\bin\Debug\BE.dll
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\bin\Debug\BL.dll
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\bin\Debug\DAL.dll
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\bin\Debug\DS.dll
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\bin\Debug\BE.pdb
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\bin\Debug\BL.pdb
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\bin\Debug\DAL.pdb
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\bin\Debug\DS.pdb
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\AddContract.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\AddEmployee.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\AddEmployeur.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\AddSpecialization.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\allContract.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\allEmployee.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\allEmployer.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\allSpecialization.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\EraseContract.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\EraseEmployee.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\EraseEmployer.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\EraseSpecialization.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\groupingCity.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\groupingExpert.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\groupingProfit.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\MainWindows.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\MenuContract.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\MenuEmployee.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\MenuEmployeur.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\MenuSpecialization.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\StartWindow.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UpdateContract.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UpdateEmployee.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UpdateEmployer.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UpdateSpecialization.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\App.g.cs
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UI_MarkupCompile.cache
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UI_MarkupCompile.lref
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\AddContract.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\AddEmployee.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\AddEmployeur.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\AddSpecialization.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\allContract.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\allEmployee.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\allEmployer.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\allSpecialization.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\EraseContract.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\EraseEmployee.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\EraseEmployer.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\EraseSpecialization.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\groupingCity.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\groupingExpert.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\groupingProfit.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\MainWindows.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\MenuContract.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\MenuEmployee.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\MenuEmployeur.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\MenuSpecialization.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\StartWindow.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UpdateContract.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UpdateEmployee.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UpdateEmployer.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UpdateSpecialization.baml
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UI.g.resources
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\hillel\Desktop\reste\ancien\שנה א סמסטר א\exo rendu\מיני פרויקט במערכת חלומות\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\hillel\Desktop\Projets\C# xaml\dotNet5777_Project01_4238_1174vv\UI\bin\Debug\UI.exe.config
+C:\Users\hillel\Desktop\Projets\C# xaml\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UI.exe
+C:\Users\hillel\Desktop\Projets\C# xaml\dotNet5777_Project01_4238_1174vv\UI\obj\Debug\UI.pdb

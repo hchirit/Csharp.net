@@ -1,0 +1,28 @@
+﻿<Window x:Class="UI.MenuSpecialization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI"
+        mc:Ignorable="d"
+        Title="MenuSpecialization" Height="300" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name ="specialization" Background="CornflowerBlue"   Content="Add Specialization" FontSize="20" Grid.Row="0" Click="specialization_Add"/>
+        <Button x:Name="button1_Copy2"  Background="CornflowerBlue"   FontSize="20" Content="Erase Specialization"  Grid.Row="1" Click="button1_Copy2_Erase" />
+        <Button x:Name="button1_Copy6" Background="CornflowerBlue"  FontSize="20" Content="Update Specialization"  Grid.Row="2" Click="button1_Copy6_Update"/>
+        <Button x:Name="button_Copy2" Background="CornflowerBlue" Content="All Specialization"   FontSize="20"  Grid.Row="3" Click="button_Copy2_All"/>
+        <Button x:Name="button4" Margin="254,0,0,0" VerticalAlignment="Top" Height="37" Click="button1_return">
+            <Button.Content>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="image/GoBack.png" Width="33" Height="34"/>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+    </Grid>
+</Window>

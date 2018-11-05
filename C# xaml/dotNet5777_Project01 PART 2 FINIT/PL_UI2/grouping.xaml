@@ -1,0 +1,39 @@
+﻿<Window x:Class="PL_UI2.grouping_expert"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL_UI2"
+        mc:Ignorable="d"  
+        Title="grouping_expert" WindowState="Maximized" Height="469.586" Width="770">
+    <Grid>
+        <Grid.Background>
+            <RadialGradientBrush>
+                <GradientStop Color="SkyBlue" Offset="0.918"/>
+                <GradientStop Color="WhiteSmoke"/>
+            </RadialGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="97*"/>
+            <ColumnDefinition Width="278*"/>
+            <ColumnDefinition Width="6*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="expert" Content="Profit by expert" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="70" Background="White" FontSize="18.667" FontWeight="Bold" Click="expert_Click" Margin="22,54,22,2" Grid.RowSpan="2"/>
+        <Button x:Name="city"  Content="Profit by City" HorizontalAlignment="Center" VerticalAlignment="Center"  Width="150" Height="70" Grid.Row="1" Background="White" FontSize="18.667" FontWeight="Bold" Click="city_Click" Margin="22,55,22,1" Grid.RowSpan="2"/>
+        <Button x:Name="date"  Content="Profit by Date" HorizontalAlignment="Center" VerticalAlignment="Center"  Width="150" Height="70" Grid.Row="2" Background="White" FontSize="18.667" FontWeight="Bold" Click="date_Click" Margin="22,54,22,2" Grid.RowSpan="2" />
+        <Button x:Name="age"  Content="Profit by Age" HorizontalAlignment="Center" VerticalAlignment="Center"  Width="150" Height="70" Grid.Row="3" Background="White" FontSize="18.667" FontWeight="Bold" Click="age_Click" Margin="22,55,22,1" Grid.RowSpan="2" />
+        <Button x:Name="branch"  Content="Profit by&#xA;hevah" HorizontalAlignment="Center" VerticalAlignment="Center"  Width="150" Height="70" Grid.Row="4" Background="White" FontSize="18.667" FontWeight="Bold" Click="branch_Click" Margin="22,55,22,1" Grid.RowSpan="2"/>
+        <Button x:Name="menu"  Content="RETURN" HorizontalAlignment="Left" VerticalAlignment="Top"  Width="101" Height="42" Grid.Row="6" Grid.Column="1" Background="DeepSkyBlue" FontSize="18.667" FontWeight="Bold" Margin="445,10,0,0" Click="menu_Click"/>
+        <DataGrid x:Name ="DataGrid_s" VerticalAlignment="Stretch" HorizontalAlignment="Left" Width="556"  ColumnWidth="*" IsReadOnly="True" Grid.Column="1" Grid.RowSpan="5" Grid.Row="1" />
+
+    </Grid>
+</Window>

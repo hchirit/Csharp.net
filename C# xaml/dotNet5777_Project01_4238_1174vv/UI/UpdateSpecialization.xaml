@@ -1,0 +1,52 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI"
+        xmlns:BE="clr-namespace:BE;assembly=BE" x:Class="UI.UpdateSpecialization"
+        mc:Ignorable="d"
+        Title="UpdateSpecialization" Height="236.902" Width="672.964">
+    <Grid Margin="0,0,-8,0">
+        <Button x:Name="button"  Content="Update" Background="Maroon" Foreground="Black" FontSize="30"  HorizontalAlignment="Left" Margin="0,146,0,0" VerticalAlignment="Top" Width="115" Height="52" Click="button_Update"/>
+        <Button x:Name="button1" Margin="574,146,0,0" Click="button1_return" HorizontalAlignment="Left" Width="52" Height="53" VerticalAlignment="Top">
+            <Button.Content>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="image/GoBack.png" Width="48" Height="49"/>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+        <DataGrid x:Name="specializationDataGrid" AutoGenerateColumns="False" EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="263,0,27,0" RowDetailsVisibilityMode="VisibleWhenSelected" Height="131" VerticalAlignment="Top" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="expertiseDomainColumn" Binding="{Binding ExpertiseDomain}" Header="Expertise Domain" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="maxTarifColumn" Binding="{Binding maxTarif}" Header="max Tarif" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="minTarifColumn" Binding="{Binding minTarif}" Header="min Tarif" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="specializationNumberColumn" Binding="{Binding specializationNumber}" Header="specialization Number" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Grid x:Name="grid3" HorizontalAlignment="Left" Margin="0,2,0,0" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Label Content="Expertise Domain:" Background="Gray" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="3" VerticalAlignment="Center"/>
+            <ComboBox x:Name="expertiseDomainComboBox1" Grid.Column="1"  HorizontalAlignment="Left" Height="Auto" SelectedItem="{Binding ExpertiseDomain}"  Margin="3" Grid.Row="3" VerticalAlignment="Center" Width="120"/>
+            <Label Content="max Tarif:" Background="Gray" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="1" VerticalAlignment="Center"/>
+            <TextBox x:Name="maxTarifTextBox1" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="1" Text="{Binding maxTarif, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Content="min Tarif:" Background="Gray" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="2" VerticalAlignment="Center"/>
+            <TextBox x:Name="minTarifTextBox1" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="2" Text="{Binding minTarif, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+            <Label Content="ID to update:" Background="Maroon" Grid.Column="0" HorizontalAlignment="Left" Margin="3" Grid.Row="0" VerticalAlignment="Center"/>
+            <TextBox x:Name="specializationNumberTextBox1" Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="3" Grid.Row="0" Text="{Binding specializationNumber, Mode=TwoWay, NotifyOnValidationError=true, ValidatesOnExceptions=true}" VerticalAlignment="Center" Width="120"/>
+        </Grid>
+
+        <Grid.Background>
+            <ImageBrush x:Name="image"   ImageSource="image/téléchargement (2).jpg"  />
+        </Grid.Background>
+    </Grid>
+</Window>

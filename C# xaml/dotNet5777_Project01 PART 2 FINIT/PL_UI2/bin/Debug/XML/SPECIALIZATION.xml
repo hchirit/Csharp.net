@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<specializations>
+  <specialisation>
+    <specialization_id>321</specialization_id>
+    <discipline>Databases</discipline>
+    <expertise>PROGRAMMER</expertise>
+    <minWage>322</minWage>
+    <maxWage>12</maxWage>
+  </specialisation>
+</specializations>

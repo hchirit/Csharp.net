@@ -1,0 +1,22 @@
+﻿<Window x:Class="PL_UI2.Remove_employee"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL_UI2"
+        mc:Ignorable="d"
+        Title="Remove_employee" Height="300" Width="325">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="93*"/>
+            <RowDefinition Height="117*"/>
+            <RowDefinition Height="59*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="button" FontSize="35" Foreground="red" Content="remove Employee"  Grid.Row="2" Click="button_Click"/>
+        <TextBox x:Name="textbox_id" Background="Beige" FontSize="35" TextWrapping="Wrap" Grid.Row="1" Margin="10,20,183,47"/>
+        <Label x:Name="label" FontSize="28" Content="employee id &#xD;&#xA;to remove : "/>
+        <Grid.Background>
+            <ImageBrush x:Name="image"   ImageSource="images/2.jpg"  />
+        </Grid.Background>
+    </Grid>
+</Window>

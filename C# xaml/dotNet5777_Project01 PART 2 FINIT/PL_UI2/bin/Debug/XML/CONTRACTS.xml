@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CONTRACTS>
+  <Contract>
+    <contractID>32</contractID>
+    <employerID>322</employerID>
+    <employeeID>322</employeeID>
+    <professionalID>32154864</professionalID>
+    <isSigned>true</isSigned>
+    <salaryBrute>12000</salaryBrute>
+    <salaryNet>0</salaryNet>
+    <beginning>0001-01-01T00:00:00</beginning>
+    <end>0002-01-01T00:00:00</end>
+    <numHours>120</numHours>
+    <expertise>ALGO_INGINEER</expertise>
+    <city>k</city>
+    <commission>12000</commission>
+  </Contract>
+  <Contract>
+    <contractID>32154864</contractID>
+    <employerID>322</employerID>
+    <employeeID>322</employeeID>
+    <professionalID>54</professionalID>
+    <isSigned>true</isSigned>
+    <salaryBrute>321</salaryBrute>
+    <salaryNet>288.9</salaryNet>
+    <beginning>0001-01-01T00:00:00</beginning>
+    <end>0022-01-01T00:00:00</end>
+    <numHours>231</numHours>
+    <expertise>ALGO_INGINEER</expertise>
+    <city>321</city>
+    <commission>32.1</commission>
+  </Contract>
+</CONTRACTS>

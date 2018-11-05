@@ -1,0 +1,22 @@
+﻿<Window x:Class="UI.groupingProfit"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UI"
+        mc:Ignorable="d"
+        Title="groupingProfit" Height="300" Width="300">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush x:Name="Image"  ImageSource="image/Profit.jpg" />
+        </Grid.Background>
+        <Button x:Name="button1" Margin="263,0,0,235" Click="button1_return">
+            <Button.Content>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="image/GoBack.png" Width="26" Height="27" RenderTransformOrigin="0.245,0.508"/>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+        <DataGrid x:Name="dataGrid" Margin="42,44,71,102" IsReadOnly="True"/>
+    </Grid>
+</Window>

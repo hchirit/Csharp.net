@@ -1,0 +1,48 @@
+﻿<Window x:Class="PL_UI2.MENU"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PL_UI2"
+        mc:Ignorable="d"
+        Title="MENU" Height="400" Width="568.797">
+    <Grid Margin="0,0,2,0">
+        <Button Margin="66,85,378,180">
+            <!-- contract -->
+            <Button.Content>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="images/contract.gif" Width="86" Height="84"/>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+        <!-- employer -->
+        <Button Margin="216,85,228,180">
+            <Button.Content>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="images/employer.png" Width="86" Height="84"/>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+        <!-- employee -->
+        <Button Margin="355,85,89,180">
+            <Button.Content>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="images/employer.png" Width="86" Height="84"/>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+
+        <Button Margin="216,237,228,28">
+            <Button.Content>
+                <StackPanel Orientation="Horizontal">
+                    <Image Source="images/specialization.png" Width="86" Height="84"/>
+                </StackPanel>
+            </Button.Content>
+        </Button>
+        <Label x:Name="label" Content="    CONTRACT" Background="Beige" FontSize="15"  HorizontalAlignment="Left" Margin="66,54,0,0" VerticalAlignment="Top" Width="115"/>
+        <Label x:Name="labe2" Content="   EMPLOYER" Background="Beige" FontSize="15"  HorizontalAlignment="Left" Margin="216,54,0,0" VerticalAlignment="Top" Width="115"/>
+        <Label x:Name="labe2_Copy" Content="   EMPLOYEE" Background="Beige" FontSize="15"  HorizontalAlignment="Left" Margin="355,55,0,0" VerticalAlignment="Top" Width="115"/>
+        <Label x:Name="labe2_Copy1" Content="  SPECIALITER" Background="Beige" FontSize="15"  HorizontalAlignment="Left" Margin="216,202,0,0" VerticalAlignment="Top" Width="115"/>
+
+    </Grid>
+</Window>
